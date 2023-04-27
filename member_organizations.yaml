@@ -272,6 +272,14 @@
   hiringForKubeflow: true
   hiringUrl: https://www.unisound.com/join-us.html
 
+- name: Waterloo Data
+  contacts:
+    - miller@waterloodata.com
+    - lstamm@waterloodata.com
+    - mbrown@waterloodata.com
+  url: https://www.waterloodata.com/
+  hiringForKubeflow: false
+
 - name: Weaveworks
   contacts:
     - alexis@weave.works
